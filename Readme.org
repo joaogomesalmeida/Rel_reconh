@@ -1,0 +1,9 @@
+#+title: Readme
+
+* Objetivo
+Efetuar relatório sobre cadeira de mestrado prático com o tema "Direito do Reconhecimento"
+* Prazo
+2025.09.10
+* Coisas a fazer
+** Índice
+** Pesquisa Bibliográfica
