@@ -2,19 +2,31 @@
 #+subtitle: Projeto científico e pedagógico sobre os conteúdos, os métodos de ensino e a bibliografia da unidade curricular de Direito Processual Civil Internacional II / Direito do Reconhecimento
 #+author: João Gomes de Almeida
 #+language: pt
-#+latex_header: \usepackage[auto]{polyglossia}
-#+options: toc:nil
+#+latex_class: koma-report
+#+LaTeX_HEADER: \usepackage{fontspec}
+#+latex_header: \usepackage{polyglossia}
+#+LaTeX_HEADER: \setmainlanguage{portuguese}
+#+LaTeX_HEADER: \setotherlanguage{english}
+#+latex_header: \addto\captionsportuguese{\def\contentsname{Índice}}
+#+options: toc:t
+#+LATEX_HEADER: \KOMAoptions{headings=small}
 #+latex_compiler: xelatex
 # #+odt_styles_file: ~/dropbox/bibliografia/odt/modelo.odt
 #  #+cite_export: csl chicago-fullnote-bibliography.csl
 #+cite_export: csl chicago-fullnote-bibliography-16.csl
 
 # Projeto de índice base no da EDO
-** Parte I - CONSIDERAÇÕES INTRODUTÓRIAS E ENQUADRAMENTO DA UNIDADE CURRICULAR
-*** A. Enquadramento do projeto científico e pedagógico. Unidade curricular escolhida e sua integração curricular. Razões subjacentes
-*** B. Apresentação liminar do programa e sua fundamentação. Adequação de uma unidade curricular do Curso de Mestrado em Direito e Prática Jurídica
-*** C. Organização do presente projeto
-** Parte II - Programa Direito do Reconhecimento
+** Considerações introdutórias e enquadramento da unidade curricular
+*** Enquadramento do projeto científico e pedagógico. Unidade curricular escolhida e sua integração curricular. Razões subjacentes
+*** Apresentação liminar do programa e sua fundamentação. Adequação de uma unidade curricular do Curso de Mestrado em Direito e Prática Jurídica
+*** Organização do presente projeto
+** Programa Direito do Reconhecimento
 *** Programa abreviado
+Isto é um teste para ver se "ele faz smart quotes".
+
+Aparentemente "não".
 *** Programa desenvolvido
 *** Desenvolvimento dos conteúdos do programa
+
+
+# #+TOC: headlines 2
