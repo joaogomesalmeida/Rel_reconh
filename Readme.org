@@ -6,4 +6,5 @@ Efetuar relatório sobre cadeira de mestrado prático com o tema "Direito do Rec
 2025.09.10
 * Coisas a fazer
 ** Índice
+** Ver relatório do DMV e do LLP na Biblioteca
 ** Pesquisa Bibliográfica
