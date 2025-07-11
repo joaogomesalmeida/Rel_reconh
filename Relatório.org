@@ -1,13 +1,14 @@
 #+title: Direito do Reconhecimento
 #+subtitle: Projeto científico e pedagógico sobre os conteúdos, os métodos de ensino e a bibliografia da unidade curricular de Direito Processual Civil Internacional II / Direito do Reconhecimento
 #+author: João Gomes de Almeida
-#+language: pt
 #+latex_class: koma-report
 #+LaTeX_HEADER: \usepackage{fontspec}
 #+latex_header: \usepackage{polyglossia}
 #+LaTeX_HEADER: \setmainlanguage{portuguese}
 #+LaTeX_HEADER: \setotherlanguage{english}
 #+latex_header: \addto\captionsportuguese{\def\contentsname{Índice}}
+#+language: pt
+# a varíavel org-export-smart-quotes-alist não tem pt, por isso às "smart quotes" não funcionam. Quando mudo para italiano funciona. _RESOLVIDO_: aditei código ao config.el.
 #+options: toc:t
 #+LATEX_HEADER: \KOMAoptions{headings=small}
 #+latex_compiler: xelatex
@@ -18,15 +19,70 @@
 # Projeto de índice base no da EDO
 ** Considerações introdutórias e enquadramento da unidade curricular
 *** Enquadramento do projeto científico e pedagógico. Unidade curricular escolhida e sua integração curricular. Razões subjacentes
+**** Enquadramento normativo
+O Estatuto da Carreira Docente Universitária, na redação atualmente vigente[fn:1], estabelece, no seu capítulo IV, as normas sobre concursos para recrutamento de professores catedráticos, associados e auxiliares. Na Universidade de Lisboa, o regime de concursos para recrutamento de professores catedráticos, associados e auxiliares da Universidade de Lisboa é definido, em complemento ao Estatuto da Carreira Docente Universitária, pelo Regulamento Geral de Concursos para recrutamento de professores catedráticos, associados e auxiliares da Universidade de Lisboa, publicado no Diário da República, 2.ª série, n.º 45, de 5 de março de 2015. Este Regulamento, no artigo 5.º, n.º 4, establece que "[n]os concursos para professor catedrático, associado ou auxiliar pode ser exigido aos candidatos a apresentação de um projeto científico e ou pedagógico que o candidato se proponha desenvolver na área ou áreas disciplinares para a qual foi aberto concurso, em termos a definir no edital de abertura de concurso."
+
 *** Apresentação liminar do programa e sua fundamentação. Adequação de uma unidade curricular do Curso de Mestrado em Direito e Prática Jurídica
 *** Organização do presente projeto
 ** Programa Direito do Reconhecimento
 *** Programa abreviado
 Isto é um teste para ver se "ele faz smart quotes".
 
-Aparentemente "não".
+Aparentemente "sim".
 *** Programa desenvolvido
 *** Desenvolvimento dos conteúdos do programa
 
 
-# #+TOC: headlines 2
+**** Enquadramento geral
+**** Reconhecimento de decisões judiciais
+***** Direito Europeu
+****** Regulamento Bruxelas I /bis/
+******* Determinação das decisões passíveis de reconhecimento
+******** Conceito de decisão
+******** Delimitação material das decisões
+******** Delimitação temporal das decisões
+******** Delimitação espacial das decisões
+******* Proibição do controlo do mérito
+******* Reconhecimento automático
+******* Supressão do /exequatur/
+******* Fundamentos de recusa do reconhecimento e da execução
+******* Aspetos do processo de recusa da execução
+
+****** Regulamento Bruxelas II /ter/
+
+****** Regulamento n.º 4/2009
+****** Regulamento n.º 650/2012
+****** Regulamento n.º 2016/1103
+****** Regulamento n.º 2016/1104
+***** Direito convencional
+****** Convenção da Haia de 2005
+****** Convenção da Haia de 2019
+****** Convenção da Haia de 1996
+***** Direito interno
+****** Caso prático: enunciado /(em dúvida se faço isto)/
+****** Considerações gerais
+****** Conceito de decisão
+****** Requisitos de confirmação
+****** Fundamentos de impugnação
+****** Aspetos do processo de revisão
+****** Caso prático: tópicos de resolução /(em dúvida se faço isto)/
+**** Reconhecimento de decisões arbitrais
+***** Convenção de Nova Iorque
+***** Direito interno
+**** Reconhecimento de atos autênticos
+***** Direito Europeu
+****** Regulamento Bruxelas I /bis/
+****** Regulamento Bruxelas II /ter/
+****** Regulamento n.º 4/2009
+****** Regulamento n.º 650/2012
+****** Regulamento n.º 2016/1103
+****** Regulamento n.º 2016/1104
+***** Direito interno
+
+**** Reconhecimento de situações jurídicas
+** Bibliografia
+** Método de ensino
+
+* Footnotes
+
+[fn:1] O Estatuto da Carreira Docente Universitária foi aprovado pelo Decreto-Lei n.º 448/79, de 13 de novembro, alterado pela Lei n.º 19/80, de 16 de julho, pelos Decretos-Leis n.ºs 316/83, de 2 de julho, 35/85, de 1 de fevereiro, 48/85, de 27 de fevereiro, 243/85, de 11 de julho, 244/85, de 11 de julho, 381/85, de 27 de setembro, 245/86, de 21 de agosto, 370/86, de 4 de novembro, e 392/86, de 22 de novembro, pela Lei n.º 6/87, de 27 de janeiro, pelos Decretos-Leis n.ºs 145/87, de 24 de março, 147/88, de 27 de abril, 359/88, de 13 de outubro, 412/88, de 9 de novembro, 456/88, de 13 de dezembro, 393/89, de 9 de novembro, 408/89, de 18 de novembro, 388/90, de 10 de dezembro, 76/96, de 18 de junho, 13/97, de 17 de janeiro, 212/97, de 16 de agosto, 252/97, de 26 de setembro, 277/98, de 11 de setembro, 373/99, de 18 de setembro, e 206/2009, de 31 de agosto e pela Lei n.º 8/2010, de 13 de maio.
