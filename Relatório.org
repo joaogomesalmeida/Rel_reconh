@@ -31,24 +31,24 @@
 ** Tabela de casos
 - TJ
   - Ac. de 2 de junho de 1994, /Solo Kleinmotoren/, C-414/92, EU:C:1994:221
+  - Ac. de 15 de novembro de 2012, /Gothaer/, C-456/11, EU:C:2012:719
   - Ac. de 9 de março de 2017, /Pula Parking/, C-551/15, EU:C:2017:193
 -
 * Considerações introdutórias e enquadramento da unidade curricular
 ** Enquadramento do projeto científico e pedagógico. Unidade curricular escolhida e sua integração curricular. Razões subjacentes
-*** Enquadramento normativo
+**** Enquadramento normativo
 O Estatuto da Carreira Docente Universitária, na redação atualmente vigente[fn:1], estabelece, no seu capítulo IV, as normas sobre concursos para recrutamento de professores catedráticos, associados e auxiliares. Na Universidade de Lisboa, o regime de concursos para recrutamento de professores catedráticos, associados e auxiliares da Universidade de Lisboa é definido, em complemento ao Estatuto da Carreira Docente Universitária, pelo Regulamento Geral de Concursos para recrutamento de professores catedráticos, associados e auxiliares da Universidade de Lisboa, publicado no Diário da República, 2.ª série, n.º 45, de 5 de março de 2015. Este Regulamento, no artigo 5.º, n.º 4, establece que "[n]os concursos para professor catedrático, associado ou auxiliar pode ser exigido aos candidatos a apresentação de um projeto científico e ou pedagógico que o candidato se proponha desenvolver na área ou áreas disciplinares para a qual foi aberto concurso, em termos a definir no edital de abertura de concurso."
 
-** Apresentação liminar do programa e sua fundamentação. Adequação de uma unidade curricular do Curso de Mestrado em Direito e Prática Jurídica
-** Organização do presente projeto
-* Programa Direito do Reconhecimento
-** Programa abreviado
+**** Justificação da unidade curricular escolhida e sua adequação ao Curso de Mestrado em Direito e Prática Jurídica
+**** Organização do presente projeto
+* Direito do Reconhecimento: programa abreviado e desenvolvido
+**** Programa abreviado
 Isto é um teste para ver se "ele faz smart quotes".
 
 Aparentemente "sim".
-** Programa desenvolvido
-** Desenvolvimento dos conteúdos do programa
-
-
+**** Programa desenvolvido
+* Direito do Reconhecimento: desenvolvimento dos conteúdos do programa
+** Introdução
 *** Enquadramento geral
 **** Reconhecimento, executoriedade e execução
 *** Aspetos comuns do Direito secundário europeu do reconhecimento
@@ -58,68 +58,71 @@ Aparentemente "sim".
 **** Carácter transfronteiriço
 **** Delimitação espacial
 **** Proibição do controlo do mérito
-*** Reconhecimento de decisões judiciais estrangeiras e outros actos públicos estrangeiros
-**** Direito Europeu
-***** Em matéria civil e comercial (Regulamento Bruxelas I /bis/ (principal); também há: Reg. 655/2014 (arresto de contas); Reg. 805/2004 (Título Executivo Europeu); Reg. 1896/2006 (procedimento de injunção europeia de pagamento); Reg. 861/2007 (processo europeu para ações de pequeno montante))
-****** Determinação das decisões passíveis de reconhecimento
-******* Conceito de decisão
+** Reconhecimento de decisões judiciais estrangeiras e outros actos públicos estrangeiros
+*** Direito Europeu
+**** Em matéria civil e comercial (Regulamento Bruxelas I /bis/ (principal); também há: Reg. 655/2014 (arresto de contas); Reg. 805/2004 (Título Executivo Europeu); Reg. 1896/2006 (procedimento de injunção europeia de pagamento); Reg. 861/2007 (processo europeu para ações de pequeno montante))
+***** Determinação das decisões passíveis de reconhecimento
+****** Conceito de decisão
 
-O regime de reconhecimento de decisões judiciais estrangeiras do Regulamento Bruxelas I /bis/ abrange unicamente as decisões proferidas por num Estado-Membro[fn:2]. O conceito de decisão é definido autonomamente no artigo 2.º, al. /a)/ do citado Regulamento, como "(...) qualquer decisão proferida por um tribunal de um Estado-Membro, independentemente da designação que lhe for dada, tal como acórdão, sentença, despacho judicial ou mandado de execução, bem como as decisões de fixação do montante das custas do processo pela secretaria do tribunal." Esclarece-se, ainda, que para efeitos das normas sobre reconhecimento e execução (Capítulo III do Regulamento Bruxelas I /bis/), o conceito de decisão "(...) abrange as medidas provisórias, incluindo as medidas cautelares, decididas por um tribunal que, por força do presente regulamento, é competente para conhecer do mérito da causa. Não abrange as medidas provisórias, incluindo as medidas cautelares, impostas por esse tribunal sem que o requerido seja notificado para comparecer a menos que a decisão que contém a medida seja notificada ao requerido antes da execução".
+O regime de reconhecimento de decisões judiciais estrangeiras do Regulamento Bruxelas I /bis/ abrange unicamente as decisões proferidas por um tribunal de um Estado-Membro[fn:2]. O conceito de decisão é definido autonomamente no artigo 2.º, al. /a)/ do citado Regulamento, como "(...) qualquer decisão proferida por um tribunal de um Estado-Membro, independentemente da designação que lhe for dada, tal como acórdão, sentença, despacho judicial ou mandado de execução, bem como as decisões de fixação do montante das custas do processo pela secretaria do tribunal."[fn:22] Esclarece-se, ainda, que para efeitos das normas sobre reconhecimento e execução (Capítulo III do Regulamento Bruxelas I /bis/), o conceito de decisão "(...) abrange as medidas provisórias, incluindo as medidas cautelares, decididas por um tribunal que, por força do presente regulamento, é competente para conhecer do mérito da causa. Não abrange as medidas provisórias, incluindo as medidas cautelares, impostas por esse tribunal sem que o requerido seja notificado para comparecer a menos que a decisão que contém a medida seja notificada ao requerido antes da execução".
 
 A decisão tem de ser proferida por um tribunal de /um Estado-Membro/. O conceito de Estado-Membro não se encontra definido no Regulamento Bruxelas I /bis/, o que, em tese, poderia ser relevante pois aquando da comunitarização do terceiro pilar (atualmente o Título V da Parte III do TFUE), três (à data) Estados-Membros reservaram para si o direito de não participar nos instrumentos normativos desse pilar[fn:3]. O Reino Unido e a Irlanda optaram por participar na aprovação e aplicação do Regulamento Bruxelas I /bis/[cite:Cf. considerando n.º 40 do Regulamento Bruxelas I /bis/. O Reino Unido desvinculou-se da União Europeia, no processo que ficou conhecido como /Brexit/, e o Regulamento Bruxelas I /bis/ deixou de lhe ser aplicável. Nos termos do artigo 67.º, n.º 2, al. /a)/, do Acordo sobre a saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica (publicado no JO C 384l de 12 de novembro de 2019), o Regulamento Bruxelas I /bis/ é aplicável ao reconhecimento e à execução de decisões proferidas em ações judiciais intentadas antes do termo do período de transição (31 de dezembro de 2020), bem como de instrumentos autênticos formalmente exarados ou registados e de transações judiciais aprovadas ou celebradas antes do termo do período de transição (31 de dezembro de 2020). Tal significa que o Regulamento Bruxelas I /bis/ é ainda aplicável ao reconhecimento e execução de decisões judicais proferidas pelos tribunais do Reino Unido em ações intentadas até 31 de dezembro de 2020. Cf., no mesmo sentido, Magnus em @magnus2023, Introduction, ndm. 87]. A Dinamarca não participou na aprovação e aplicação do Regulamento Bruxelas I /bis/[fn:5], tal como não tinha participado na aprovação e aplicação do Regulamento Bruxelas I[fn:6]. Em 2005, a Dinamarca e a União Europeia concluíram um Acordo[fn:7], nos termos do qual o Regulamento Bruxelas I (com ligeiras alterações) passou a ser aplicável na Dinamarca. O Acordo prevê igualmente que sempre que forem aprovadas alterações do Regulamento Bruxelas I, a Dinamarca deve notificar à Comissão a sua decisão de aplicar ou não o conteúdo de tais alterações[fn:8]. Com a aprovação do Regulamento Bruxelas I /bis/, a Dinamarca notificou à Comissão, por ofício de 20 de dezembro de 2012, a sua decisão de aplicar o Regulamento Bruxelas I /bis/. Nestes termos, o conceito de Estado-Membro do Regulamento Bruxelas I /bis/ coincide com o conceito de Estado-Membro utilizado no TUE e TFUE[fn:9].
 
-O conceito de decisão pressupõe o conceito de tribunal, que não é definido no Regulamento Bruxelas I /bis/. O artigo 2.º, al. /a)/, menciona os tribunais de um Estado-Membro, o que exclui os tribunais não estaduais, como os tribunais arbitrais e os tribunais internacionais[cite:cf., neste sentido, @pinheiro2019a p. 74;Florian Loyal em @schuetze2022, art. 2.º, ndm. 5;@mendes2022a pp. 329-330]. O TJ já foi chamado a pronunciar-se sobre este conceito, em sede da Convenção de Bruxelas e do Regulamento Bruxelas I /bis/. Em sede da Convenção de Bruxelas questionou-se se uma transação judicial feita perante um tribunal do Estado-Membro requerido deveria ser considerada uma decisão, para efeitos do fundamento de recusa de reconhecimento e da execução assente na incompatibilidade de decisões. No Acórdão /Kleinmotoren/, o TJ esclareceu que "(...) para poder ser qualificado como «decisão» na acepção da Convenção [e do Regulamento Bruxelas I /bis/ ], o acto deve emanar de um órgão jurisdicional pertencente a um Estado contratante [Estado-Membro no caso do Regulamento Bruxelas I /bis/ ] e que decide por sua própria autoridade sobre as questões controvertidas entre as partes"[fn:4]. Se a decisão é proferida por uma entidade que pertence ao sistema jurisdicional de um Estado-Membro, parece que terá sido proferida por um tribunal, para efeitos do Regulamento Bruxelas I /bis/[cite:Cf. Arnaud Nuyts em @dickinson2015, ndm. 2.99]. Questionou-se, no contexto do Regulamento Bruxelas I /bis/, se o notário croata, quando emite um mandado de execução no âmbito de um processo executivo fundado num instrumento autêntico, integra o conceito de tribunal na aceção deste regulamento. No Acórdão /Pula Parking/[fn:10], o TJ, atendendo aos princípios do reconhecimento mútuo e da confiança mútua entre Estados-Membros na administração da justiça, considerou que "(...) o conceito de «tribunal» na aceção do mesmo [Regulamento Bruxelas I /bis/ ] deve ser interpretado tendo em consideração a necessidade de permitir aos órgãos jurisdicionais nacionais dos Estados-Membros identificar as decisões proferidas por órgãos jurisdicionais de outros Estados-Membros e proceder, com a celeridade exigida por este regulamento, à execução dessas decisões" e que tal "(...) pressupõe, nomeadamente, que as decisões cuja execução é requerida noutro Estado-Membro tenham sido proferidas em processo judicial que garanta independência e imparcialidade, bem como o respeito pelo princípio do contraditório."[fn:11]. Analisando, o processo executivo croata aplicável, o TJ concluíu que o mandado de execução fundado no instrumento autêntico não é contraditório, pois só é notificado ao devedor após a sua adoção, sem que o pedido apresentado ao notário tenha sido comunicado a esse devedor[fn:12], e como tal, entendeu que "(...) na Croácia, os notários, quando atuam no âmbito das competências que lhes são conferidas pelo direito nacional nos processos executivos fundados em «documentos autênticos», não integram o conceito de «tribunal» na aceção deste regulamento"[fn:13].
+O conceito de decisão pressupõe o conceito de tribunal, que não é definido no Regulamento Bruxelas I /bis/. O artigo 2.º, al. /a)/, menciona os tribunais de um Estado-Membro, o que exclui os tribunais não estaduais, como os tribunais arbitrais e os tribunais internacionais[cite:cf., neste sentido, @pinheiro2019a p. 74;Florian Loyal em @schuetze2022, art. 2.º, ndm. 5;@mendes2022 pp. 329-330]. O TJ já foi chamado a pronunciar-se sobre este conceito, em sede da Convenção de Bruxelas e do Regulamento Bruxelas I /bis/. Em sede da Convenção de Bruxelas questionou-se se uma transação judicial feita perante um tribunal do Estado-Membro requerido deveria ser considerada uma decisão, para efeitos do fundamento de recusa de reconhecimento e da execução assente na incompatibilidade de decisões. No Acórdão /Kleinmotoren/, o TJ esclareceu que "(...) para poder ser qualificado como «decisão» na acepção da Convenção [e do Regulamento Bruxelas I /bis/ ], o acto deve emanar de um órgão jurisdicional pertencente a um Estado contratante [Estado-Membro no caso do Regulamento Bruxelas I /bis/ ] e que decide por sua própria autoridade sobre as questões controvertidas entre as partes"[fn:4]. Se a decisão é proferida por uma entidade que pertence ao sistema jurisdicional de um Estado-Membro, parece que terá sido proferida por um tribunal, para efeitos do Regulamento Bruxelas I /bis/[cite:Cf. Arnaud Nuyts em @dickinson2015, ndm. 2.99]. Questionou-se, no contexto do Regulamento Bruxelas I /bis/, se o notário croata, quando emite um mandado de execução no âmbito de um processo executivo fundado num instrumento autêntico, integra o conceito de tribunal na aceção deste regulamento. No Acórdão /Pula Parking/[fn:10], o TJ, atendendo aos princípios do reconhecimento mútuo e da confiança mútua entre Estados-Membros na administração da justiça, considerou que "(...) o conceito de «tribunal» na aceção do mesmo [Regulamento Bruxelas I /bis/ ] deve ser interpretado tendo em consideração a necessidade de permitir aos órgãos jurisdicionais nacionais dos Estados-Membros identificar as decisões proferidas por órgãos jurisdicionais de outros Estados-Membros e proceder, com a celeridade exigida por este regulamento, à execução dessas decisões" e que tal "(...) pressupõe, nomeadamente, que as decisões cuja execução é requerida noutro Estado-Membro tenham sido proferidas em processo judicial que garanta independência e imparcialidade, bem como o respeito pelo princípio do contraditório."[fn:11]. Analisando, o processo executivo croata aplicável, o TJ concluíu que o mandado de execução fundado no instrumento autêntico não é contraditório, pois só é notificado ao devedor após a sua adoção, sem que o pedido apresentado ao notário tenha sido comunicado a esse devedor[fn:12], e como tal, entendeu que "(...) na Croácia, os notários, quando atuam no âmbito das competências que lhes são conferidas pelo direito nacional nos processos executivos fundados em «documentos autênticos», não integram o conceito de «tribunal» na aceção deste regulamento"[fn:13].
 
-******* Delimitação material das decisões
-******* Delimitação temporal das decisões
-******* Delimitação espacial das decisões
-****** Proibição do controlo do mérito
-****** Reconhecimento automático
-****** Supressão do /exequatur/
-****** Fundamentos de recusa do reconhecimento e da execução
-****** Aspetos do processo de recusa da execução
-***** Insolvência (Reg. 2015/848, arts. 19.º a 33.º)
+O conceito de decisão adotado no Regulamento Bruxelas I /bis/ é /amplo/, pois abrange "(...) qualquer decisão proferida por um tribunal de um Estado-Membro, independentemente da designação que lhe for dada, tal como acórdão, sentença, despacho judicial ou mandado de execução, bem como as decisões de fixação do
+montante das custas do processo pela secretaria do tribunal" e inclui as medidas provisórias decididas por um tribunal competente para conhecer do mérito da causa, desde que o requerido tenha sido ouvido ou a decisão que contém a medida lhe tenha sido notificada antes da execução[fn:14]. É também /autónomo/, pois não depende do modo como uma determinada medida é qualificada segundo o Direito nacional do Estado-Membro de origem[cite:Cf., neste sentido, Merret em @magnus2023, art. 2.º, ndm. 6]. Em sede do Regulamento Bruxelas I, questionou-se se o conceito de decisão desse Regulamento[fn:17] abrangia "(...) uma decisão em que o tribunal de um Estado-Membro se declara incompetente com fundamento num pacto atributivo de jurisdição, ainda que essa decisão seja classificada como «decisão sobre requisitos processuais» pelo direito de outro Estado-Membro"[fn:15]. No Ac. /Gothaer/, o TJ, reiterando a necessidade de interpretação autónoma dos conceitos do Regulamento Bruxelas I[fn:16], concluíu - com base /(i)/ na interpretação literal, salientando que a definição não distingue consoante o conteúdo da decisão em causa[fn:18], /(ii)/ nos objetivos prosseguidos pelo Regulamento Bruxelas I, em particular o da livre circulação de decisões e o de simplificar e facilitar o reconhecimento e execução de decisões[fn:19], e /(iii)/ no sistema do Regulamento Bruxelas I, assente no princípio da confiança mútuo[fn:20] - que o conceito de decisão "(...) abrange igualmente uma decisão em que o tribunal de um Estado-Membro se declara incompetente com fundamento na existência de um pacto atributivo de jurisdição, independentemente da qualificação dada a essa decisão pelo direito de outro Estado-Membro"[fn:21].
 
-***** Divórcio, separação judicial e anulação do casamento (Regulamento Bruxelas II /ter/)
+****** Delimitação material das decisões
+****** Delimitação temporal das decisões
+****** Delimitação espacial das decisões
+***** Proibição do controlo do mérito
+***** Reconhecimento automático
+***** Supressão do /exequatur/
+***** Fundamentos de recusa do reconhecimento e da execução
+***** Aspetos do processo de recusa da execução
+**** Insolvência (Reg. 2015/848, arts. 19.º a 33.º)
 
-***** Regimes matrimoniais (Regulamento n.º 2016/1103)
-***** Regimes patrimoniais das parcerias registadas (Regulamento n.º 2016/1104)
-***** Responsabilidades parentais (Regulamento Bruxelas II /ter/)
-***** Alimentos (Regulamento n.º 4/2009)
-***** Sucessões por morte (Regulamento n.º 650/2012)
-***** Medidas com vista à proteção de outra pessoa (Reg. 606/2013)
-****** Determinação das medidas de proteção passíveis de reconhecimento
-******* Conceito de medida de proteção
-******* Delimitação material das medidas de proteção
-******* Delimitação temporal das medidas de proteção (art. 22.º, § 3.º)
-******* Delimitação espacial das medidas de proteção
-****** Reconhecimento automático (art. 4.º, n.º 1)
-******* Documentos a apresentar (art. 4.º, n.º 2)
-******* Delimitação temporal dos efeitos do reconhecimento (art. 4.º, n.º 4)
-****** Supressão do /exequatur/
-****** Adaptação da medida de proteção (artigo 11.º)
-****** Fundamentos de recusa do reconhecimento e da execução
-******* Contrariedade à ordem pública internacional do Estado-Membro requerido (art. 13.º, n.º 1, a))
-******* Incompatibilidade com decisão proferida ou reconhecida no Estado-Membro requerido (art. 13.º, n.º 1, b))
-******* Fundamento /indireto/: garantia do direito de defesa (art. 6.º, n.º 2)
-******* Fundamento /indireto/: processos /ex parte/ e direito ao contraditório (art. 6.º, n.º 3)
-****** Suspensão ou anulação do reconhecimento ou execução (art. 14.º)
-**** Direito convencional
-***** Convenção da Haia de 2005
-***** Convenção da Haia de 2019
-***** Convenção da Haia de 1996
-**** Direito interno
-***** Caso prático: enunciado /(em dúvida se faço isto)/
-***** Considerações gerais
-***** Conceito de decisão
-***** Requisitos de confirmação
-***** Fundamentos de impugnação
-***** Aspetos do processo de revisão
-***** Caso prático: tópicos de resolução /(em dúvida se faço isto)/
-*** Reconhecimento de sentenças arbitrais
+**** Divórcio, separação judicial e anulação do casamento (Regulamento Bruxelas II /ter/)
+
+**** Regimes matrimoniais (Regulamento n.º 2016/1103)
+**** Regimes patrimoniais das parcerias registadas (Regulamento n.º 2016/1104)
+**** Responsabilidades parentais (Regulamento Bruxelas II /ter/)
+**** Alimentos (Regulamento n.º 4/2009)
+**** Sucessões por morte (Regulamento n.º 650/2012)
+**** Medidas com vista à proteção de outra pessoa (Reg. 606/2013)
+***** Determinação das medidas de proteção passíveis de reconhecimento
+****** Conceito de medida de proteção
+****** Delimitação material das medidas de proteção
+****** Delimitação temporal das medidas de proteção (art. 22.º, § 3.º)
+****** Delimitação espacial das medidas de proteção
+***** Reconhecimento automático (art. 4.º, n.º 1)
+****** Documentos a apresentar (art. 4.º, n.º 2)
+****** Delimitação temporal dos efeitos do reconhecimento (art. 4.º, n.º 4)
+***** Supressão do /exequatur/
+***** Adaptação da medida de proteção (artigo 11.º)
+***** Fundamentos de recusa do reconhecimento e da execução
+****** Contrariedade à ordem pública internacional do Estado-Membro requerido (art. 13.º, n.º 1, a))
+****** Incompatibilidade com decisão proferida ou reconhecida no Estado-Membro requerido (art. 13.º, n.º 1, b))
+****** Fundamento /indireto/: garantia do direito de defesa (art. 6.º, n.º 2)
+****** Fundamento /indireto/: processos /ex parte/ e direito ao contraditório (art. 6.º, n.º 3)
+***** Suspensão ou anulação do reconhecimento ou execução (art. 14.º)
+*** Direito convencional
+**** Convenção da Haia de 2005
+**** Convenção da Haia de 2019
+**** Convenção da Haia de 1996
+*** Direito interno
+**** Caso prático: enunciado /(em dúvida se faço isto)/
+**** Considerações gerais
+**** Conceito de decisão
+**** Requisitos de confirmação
+**** Fundamentos de impugnação
+**** Aspetos do processo de revisão
+**** Caso prático: tópicos de resolução /(em dúvida se faço isto)/
+** Reconhecimento de sentenças arbitrais
 **** Convenção de Nova Iorque
 **** Direito interno
-*** Reconhecimento de atos autênticos
+** Reconhecimento de atos autênticos
 **** Direito Europeu
 ***** Regulamento Bruxelas I /bis/
 ***** Regulamento Bruxelas II /ter/
@@ -129,14 +132,33 @@ O conceito de decisão pressupõe o conceito de tribunal, que não é definido n
 ***** Regulamento n.º 2016/1104
 **** Direito interno
 
-*** Reconhecimento de situações jurídicas
+** Reconhecimento de situações jurídicas
 * Bibliografia
 * Método de ensino
 
 * Footnotes
+
+[fn:22] Este trecho é substancialmente idêntico ao artigo 25.º da Convenção de Bruxelas e ao artigo 32.º do Regulamento Bruxelas I o que permite atender à jurisprudência do TJ proferida no âmbito destes instrumentos.
+
+[fn:21] Ac. de 15 de novembro de 2012, /Gothaer/, C-456/11, EU:C:2012:719, n.º 32.
+
+[fn:20] Ac. de 15 de novembro de 2012, /Gothaer/, C-456/11, EU:C:2012:719, n.ºs 28 e 29.
+
+[fn:19] Ac. de 15 de novembro de 2012, /Gothaer/, C-456/11, EU:C:2012:719, n.ºs 26 e 27.
+
+[fn:18] Ac. de 15 de novembro de 2012, /Gothaer/, C-456/11, EU:C:2012:719, n.º 23.
+
+[fn:17] Substancialmente idêntico ao do Regulamento Bruxelas I /bis/.
+
+[fn:16] Ac. de 15 de novembro de 2012, /Gothaer/, C-456/11, EU:C:2012:719, n.º 25.
+
+[fn:15] Ac. de 15 de novembro de 2012, /Gothaer/, C-456/11, EU:C:2012:719, n.º 22.
+
+[fn:14] Cf. artigo 2.º, al. /a)/, do Regulamento Bruxelas I /bis/.
+
 [fn:13] Ac. de 9 de março de 2017, /Pula Parking/, C-551/15, EU:C:2017:193, n.º 2 da parte decisória.
 
-[fn:12]Ac. de 9 de março de 2017, /Pula Parking/, C-551/15, EU:C:2017:193, n.ºs 57 e 58.
+[fn:12] Ac. de 9 de março de 2017, /Pula Parking/, C-551/15, EU:C:2017:193, n.ºs 57 e 58.
 
 [fn:11] Ac. de 9 de março de 2017, /Pula Parking/, C-551/15, EU:C:2017:193, n.º 54.
 
